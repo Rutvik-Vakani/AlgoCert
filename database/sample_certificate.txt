@@ -1,0 +1,4 @@
+This is a sample certificate for AlgoCert testing.
+Student: Test Student
+Course: Blockchain Technology
+Year: 2026

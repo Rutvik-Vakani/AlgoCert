@@ -1,0 +1,9 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+blockchain/account.txt
+database/algocert.db
+database/uploaded_certificate.txt
+database/verify_certificate.txt
+.env
